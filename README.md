@@ -1,2 +1,2 @@
-# ASLR_Project
+# ArSL_Sign-Recognition
 Arabic sign language recognition 
