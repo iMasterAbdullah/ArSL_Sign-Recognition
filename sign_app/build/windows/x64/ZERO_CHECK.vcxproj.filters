@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\almor\Documents\Flutter Projects\sign_app\build\windows\x64\CMakeFiles\396ae2c2ce3364395101066de073fbf9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{38870CC9-7326-39D1-BAD0-17CEAFB46F6D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/runner/CMakeFiles/sign_app.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/plugins/tflite_flutter/CMakeFiles/flutter_tflite_plugin.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/plugins/tflite_flutter/CMakeFiles/INSTALL.dir
+C:/Users/almor/Documents/Flutter Projects/sign_app/build/windows/x64/plugins/tflite_flutter/CMakeFiles/ALL_BUILD.dir

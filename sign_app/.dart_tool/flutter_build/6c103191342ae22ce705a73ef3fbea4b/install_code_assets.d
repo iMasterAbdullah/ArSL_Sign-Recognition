@@ -1,0 +1,1 @@
+ C:\\Users\\almor\\Documents\\Flutter\ Projects\\sign_app\\.dart_tool\\flutter_build\\6c103191342ae22ce705a73ef3fbea4b\\native_assets.json:  C:\\Users\\almor\\Documents\\Flutter\ Projects\\sign_app\\.dart_tool\\hooks_runner\\shared\\sqlite3\\build\\download-63f8d96\\sqlite3.x64.windows.dll

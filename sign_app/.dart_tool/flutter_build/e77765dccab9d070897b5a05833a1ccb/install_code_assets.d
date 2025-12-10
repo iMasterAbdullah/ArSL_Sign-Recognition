@@ -1,0 +1,1 @@
+ C:\\Users\\almor\\Documents\\Flutter\ Projects\\sign_app\\.dart_tool\\flutter_build\\e77765dccab9d070897b5a05833a1ccb\\native_assets.json: 
