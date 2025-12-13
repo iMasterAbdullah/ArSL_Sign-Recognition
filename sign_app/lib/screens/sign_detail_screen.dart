@@ -97,19 +97,7 @@ class SignDetailScreen extends StatelessWidget {
             ),
             const SizedBox(height: 24),
             FilledButton.icon(
-              onPressed: () {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  SnackBar(
-                    content: Text(
-                      tr(
-                        context,
-                        'سيتم ربط هذا الزر بوضع التدريب بالكاميرا لاحقاً.',
-                        'This button will be linked to camera training mode later.',
-                      ),
-                    ),
-                  ),
-                );
-              },
+              onPressed: () => Navigator.pushNamed(context, '/detect'),
               icon: const Icon(Icons.front_hand),
               label: Text(
                 tr(context, 'جرّب هذه الإشارة الآن', 'Try this sign now'),
@@ -121,4 +109,3 @@ class SignDetailScreen extends StatelessWidget {
     );
   }
 }
-
